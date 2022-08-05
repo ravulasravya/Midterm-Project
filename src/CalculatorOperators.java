@@ -1,0 +1,17 @@
+/**
+ * @author Sravya Ravula
+ * @version 1.0
+ * @since 2022-08-05
+ * abstract class CalculatorOperators implements the Interface Calculation. It contains abstract calculate method
+ * that takes String input values.
+ */
+abstract class CalculatorOperators implements Calculation{
+
+    /**
+     * abstract method calculate takes two String user inputs.
+     * @param firstInputValue   first String input value entered
+     * @param secondInputValue  second String input value entered
+     * @return has a double return type
+     */
+        public abstract Double calculate (String firstInputValue,String secondInputValue);
+    }

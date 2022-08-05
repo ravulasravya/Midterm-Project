@@ -1,0 +1,11 @@
+
+ƒsquid:S1488!"`Immediately return this expression instead of assigning it to the temporary variable "subtract".(úçïÎıÿÿÿÿ8î¾ê·£0
+€squid:S1488U"]Immediately return this expression instead of assigning it to the temporary variable "power".(û’Úıÿÿÿÿ8­ê¸º£0
+isquid:S2147"ECombine this catch with the one at line 138, which has the same body.(ØÁËÈÿÿÿÿÿ8óŒì»¥0
+~squid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "add".(‡÷•Öşÿÿÿÿ8î¾ê·£0
+isquid:S2147Œ"ECombine this catch with the one at line 138, which has the same body.(é–³öûÿÿÿÿ8óŒì»¥0
+ƒsquid:S1488."`Immediately return this expression instead of assigning it to the temporary variable "multiply".(ƒìÔÀÿÿÿÿÿ8î¾ê·£0
+ysquid:S1488b"\Immediately return this expression instead of assigning it to the temporary variable "root".(ˆíŠG8äóÂº£0
+|squid:S1488;"^Immediately return this expression instead of assigning it to the temporary variable "divide".(Ùı›©8î¾ê·£0
+hsquid:S1854m"ERemove this useless assignment to local variable "handledInputValue".(ã´£‚üÿÿÿÿ8Ä‚±¼¥0
+squid:S1488H"aImmediately return this expression instead of assigning it to the temporary variable "remainder".(„ä«8èöÕî¤0
